@@ -9,7 +9,7 @@ Revitalização da tela de **Produtos do Datacrazy**, com foco em transformar a 
 Evoluir a gestão de produtos para permitir:
 
 - Cadastro e edição de produtos
-- Busca, filtros e paginação
+- BuscaS, filtros e paginação
 - Gestão de estoque
 - Associação de produtos a canais de venda
 - Identificadores externos por canal
